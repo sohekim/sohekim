@@ -3,9 +3,11 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:kim66s@mtholyoke.edu)](mailto:kim66s@mtholyoke.edu)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-round&logo=link&logoColor=white&link=https://sohekim.github.io/)](https://sohekim.github.io/)
 
+#### Looking For Summer 2022 Internship Opportunities!!
+
 ## Hi, I'm Sohee 👋🏼  
 
-I'm a rising junior double majoring in Computer Science and Philosophy at Mount Holyoke College. I'm taking a year off from college and working as a backend engineer 👩🏻‍💻 at Purplelabs. I love to learn ✨ and build 🛠 anything from API Server to Mobile Application.
+I'm a junior double majoring in Computer Science and Philosophy at Mount Holyoke College. I'm took a year off and worked as a backend engineer 👩🏻‍💻 at Purplelabs. I love to learn ✨ and build 🛠 anything from API Servers to Mobile Applications.
 
 #### What I've been focusing on ...
 
@@ -13,5 +15,6 @@ I'm a rising junior double majoring in Computer Science and Philosophy at Mount 
 - Frontend : Flutter
 - Tech Blog mainly on Java [@Medium](https://kim66s.medium.com/)
 
+#### Recently Launched An IOS App - [Suncheck](https://apps.apple.com/us/app/suncheck/id1576824683)☀️
+#### Check out my FullStack project - [EgoBooster](https://github.com/sohekim/egobooster) 🔥
 
-#### Check out my most recent project - [EgoBooster](https://github.com/sohekim/egobooster) 🔥
