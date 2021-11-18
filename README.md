@@ -3,11 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-round&logo=Gmail&logoColor=white&link=mailto:kim66s@mtholyoke.edu)](mailto:kim66s@mtholyoke.edu)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-round&logo=link&logoColor=white&link=https://sohekim.github.io/)](https://sohekim.github.io/)
 
-#### Looking For Summer 2022 Internship Opportunities!!
 
 ## Hi, I'm Sohee 👋🏼  
 
-I'm a junior double majoring in Computer Science and Philosophy at Mount Holyoke College. I'm took a year off and worked as a backend engineer 👩🏻‍💻 at Purplelabs. I love to learn ✨ and build 🛠 anything from API Servers to Mobile Applications.
+I'm a junior double majoring in Computer Science and Philosophy at Mount Holyoke College. I love to learn ✨ and build 🛠 anything from API Servers to Mobile Applications.
 
 #### What I've been focusing on ...
 
