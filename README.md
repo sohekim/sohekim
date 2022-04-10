@@ -6,11 +6,11 @@
 
 ## Hi, I'm Sohee 👋🏼  
 
-I'm a junior double majoring in Computer Science and Philosophy at Mount Holyoke College. I love to learn ✨ and build 🛠 anything from API Servers to Mobile Applications.
+I'm a junior double majoring in Computer Science and Philosophy at Mount Holyoke College. I love to learn ✨ and build 🛠 anything from API Servers to Web Applications.
 
 #### What I've been focusing on ...
 
-- Backend : Spring Boot, AWS, MySQL
+- Backend : Express, Spring Boot, AWS, MySQL
 - Frontend : Flutter
 - Tech Blog mainly on Java [@Medium](https://kim66s.medium.com/)
 
