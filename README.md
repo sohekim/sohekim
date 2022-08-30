@@ -6,14 +6,15 @@
 
 ## Hi, I'm Sohee 👋🏼  
 
-I'm a junior double majoring in Computer Science and Philosophy at Mount Holyoke College. I love to learn ✨ and build 🛠 anything from API Servers to Web Applications.
+I'm a senior double majoring in Computer Science and Philosophy at Mount Holyoke College. I love to learn ✨ and build 🛠 anything from API Servers to Web Applications.
 
-#### What I've been focusing on ...
+#### Technologies I've been focusing on
 
 - Backend : Express, Spring Boot, AWS, MySQL
 - Frontend : Flutter
 - Tech Blog mainly on Java [@Medium](https://kim66s.medium.com/)
 
-#### Recently Launched An IOS App - [Suncheck](https://apps.apple.com/us/app/suncheck/id1576824683)☀️
-#### Check out my FullStack project - [EgoBooster](https://github.com/sohekim/egobooster) 🔥
-
+#### Project Highlights!
+- Recently Launched An IOS App - [Suncheck](https://apps.apple.com/us/app/suncheck/id1576824683)☀
+- GraphQL server [TasteSecure] - (https://github.com/sohekim/taste-secure)
+- Check out my FullStack project - [EgoBooster](https://github.com/sohekim/egobooster)
